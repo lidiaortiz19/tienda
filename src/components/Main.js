@@ -25,6 +25,7 @@ class Main  extends React.Component{
           }
       )  
     }
+    /**prueba de comentario */
     renderComponnents(){
         const op=this.state.view;
         switch(op){
